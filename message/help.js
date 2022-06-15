@@ -85,9 +85,7 @@ function toCommas(x) {
 
 
 exports.allmenu = (sender, prefix, pushname, isOwner, isPremium, balance, limit, limitCount, glimit, gcount) => {
-	return `
-	
-  *Aloo! ${pushname} Selamat ${tampilUcapan}*
+	return `*Aloo! ${pushname}
   
 ╭──⫹⫺「 Info User 」
 │
